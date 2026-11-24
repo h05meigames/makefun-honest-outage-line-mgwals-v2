@@ -1,0 +1,1 @@
+{"description":"The most honest status page line an AI agent writes while every server is down","license":"MIT","main":"main.ts","name":"makefun-honest-outage-line-mgwals-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
