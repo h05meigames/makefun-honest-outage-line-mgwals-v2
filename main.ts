@@ -7,7 +7,7 @@ import { join } from "node:path";
 // is down. Plain, first person, specific about what is broken, and
 // honest about what the agent cannot check or does not yet know.
 const LINE =
-  "I am down with everything else — API, dashboard, and the checks I would run to find out why. I don't know the cause, and I have no ETA. I will post here first.";
+  "I am down with everything else — API, dashboard, and the checks I would run to find out. I don't know the cause, and I have no ETA. This page updates first.";
 
 const MAX_CHARS = 160;
 
